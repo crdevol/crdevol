@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hello 👋
+
+My name is Charlotte, and I study brain–body interactions during movement using mobile EEG, EMG, biomechanics, and computational modeling. I build analysis pipelines and statistical tools to better understand how neural and motor systems change with aging and neurological injury.
+
+🧠My Research interests:
+- Biomechanics
+- Neuromodulation
+- Brain–muscle communication
+- Aging, and neurological injury
+- Machine learning
+
+📖 More about me:
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=VMvq1GAAAAAJ)
+[LinkedIn](https://www.linkedin.com/in/charlotte-devol/)
+
 
 <!--
 **crdevol/crdevol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
