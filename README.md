@@ -6,7 +6,7 @@ My name is Charlotte, and I study brain–body interactions during movement usin
 - Biomechanics
 - Neuromodulation
 - Brain–muscle communication
-- Aging, and neurological injury
+- Aging and neurological injury
 - Machine learning
 
 📖 More about me:
