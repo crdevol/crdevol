@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Charlotte, and I study brain–body interactions during movement using mobile EEG, EMG, biomechanics, and computational modeling. I build analysis pipelines and statistical tools to better understand how neural and motor systems change with aging and neurological injury.
+My name is Charlotte, and I study brain–body interactions during movement using mobile EEG, EMG, biomechanics, and computational modeling. I build analysis pipelines and statistical tools to better understand how neural and motor systems change with aging and neurological injury and how novel interventions affect those relationships.
 
 🧠My Research interests:
 - Biomechanics
